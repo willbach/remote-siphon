@@ -6,7 +6,7 @@
     
   },
   "dependencies": {
-    "siphon": "1.0.3",
+    "siphonjs": "1.0.3",
     "request": "^2.79.0",
     "url-parse": "^1.1.7",
     "cheerio": "^0.22.0",
